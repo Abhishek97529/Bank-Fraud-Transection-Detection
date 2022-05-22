@@ -108,6 +108,10 @@ FPR-
 
 ![image](https://user-images.githubusercontent.com/91778239/169700080-fce45cb3-5c04-48ef-8a30-2a53224f24fd.png)
 
+How to speculate about the performance of the model?
+
+An excellent model has AUC near to the 1 which means it has a good measure of separability. A poor model has an AUC near 0 which means it has the worst measure of separability. In fact, it means it is reciprocating the result. It is predicting 0s as 1s and 1s as 0s. And when AUC is 0.5, it means the model has no class separation capacity whatsoever.
+
 
 
 
