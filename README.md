@@ -6,3 +6,15 @@
 ### 3.)Data availability as the data is mostly private.
 ### 4.)Misclassified Data can be another major issue, as not every fraudulent transaction is caught and reported. 
 ### 5.)Adaptive techniques used against the model by the scammers.
+### 6.)Too many features are there in the Dataset so feature selection is the problem
+
+## ALGORITHMS 
+LogisticRegression
+SVC
+DecisionTreeClassifier
+KNeighborsClassifier
+RandomForestClassifier
+AdaBoostClassifier
+BaggingClassifier
+ExtraTreesClassifier
+GradientBoostingClassifier
