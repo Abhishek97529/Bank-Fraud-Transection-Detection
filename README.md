@@ -1,4 +1,4 @@
-# Bank-Fraud-Transection-Detection
+# Bank-Fraudulent-Transection-Detection
 ## The challenge is to recognize fraudulent transactions so that the customers of Bank do not suffer for the mistake they not have done. 
 ## Main challenges involved in credit card fraud detection are:  
 ### 1.)Enormous Data is processed every day and the model build must be fast enough to respond to the scam in time.
